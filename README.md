@@ -1,2 +1,2 @@
 # accelerometer-data-filter
-Accelerometer sensor data filtering using Low Pass Filter and Moving Average Filter.
+Accelerometer sensor data filtering using LPF (Low Pass Filter) and MVA (Moving Average) Filter.
